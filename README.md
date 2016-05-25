@@ -1,2 +1,2 @@
 # Login
-Part of java servelet web application login System.
+Part of java servelet Mini Student Information System(MSIS).
